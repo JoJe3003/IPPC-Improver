@@ -1,0 +1,12 @@
+{
+    "name": "IPPC Improver",
+    "description": "Minor visual improvements to IPPC.no",
+    "version": "1.0",
+    "manifest_version": 3,
+
+    "content_scripts": [{
+        "css": ["styles.css"],
+        "js": ["script.js"],
+        "matches": ["https://www.ippc.no/ippc/*"]
+    }]
+}
