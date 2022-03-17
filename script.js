@@ -4,7 +4,7 @@ let open = false;
 let metarAvailable = false;
 let tafAvailable = false;
 
-// Functions
+// Functions //
 
 function strip(html) {
     var tmp = document.createElement("DIV");
