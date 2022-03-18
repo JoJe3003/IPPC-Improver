@@ -1,4 +1,4 @@
-// Global Variables
+// Global Variables //
 
 let open = false;
 let metarAvailable = false;
