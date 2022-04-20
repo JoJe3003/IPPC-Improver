@@ -1,7 +1,7 @@
 {
     "name": "IPPC Improver",
     "description": "Visual improvements to IPPC.no, for reading METAR and TAF.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "manifest_version": 3,
     "icons": {  "16": "static/icon16.png",
                 "32": "static/icon32.png",

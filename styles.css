@@ -1,3 +1,18 @@
 .ad-info-metar-taf {
     font: 14px / 1.2 Courier New !important;
 }
+
+#contentmettaf {
+    margin-right: 15px;
+}
+
+#toggleButton {
+    position: absolute;
+    border: none;
+
+    right: -5px; 
+    top: -5px;
+
+    margin: 0;
+    padding: 3px;
+}
